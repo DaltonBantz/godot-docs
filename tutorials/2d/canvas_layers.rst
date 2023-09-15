@@ -32,7 +32,7 @@ transform. For example:
 -  **UI**: Think of a user interface (UI) or head-up display (HUD) superimposed on our view of the game world. We want a life counter, score display and other elements to retain their screen positions even when our view of the game world changes.
 -  **Transitions**: We may want visual effects used for transitions (fades, blends) to remain at a fixed screen location.
 
-How to solve these problems in a single scene tree?
+How can we solve these problems in a single scene tree?
 
 CanvasLayers
 ------------
